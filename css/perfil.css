@@ -1,0 +1,27 @@
+.grid {
+      display: grid;
+      grid-template-columns: repeat(5, 35px);
+      grid-template-rows: repeat(5, 35px);
+      gap: 1px;
+      background: #d9d9d9;
+      padding: 1px;
+      
+      justify-content: center;
+      margin-top: 80px;
+    }
+
+
+
+
+
+    .cell {
+      width: 35px;
+      height: 35px;
+      background: white;
+    }
+
+
+    .fill {
+      background: #ffeb00;
+    }
+  
