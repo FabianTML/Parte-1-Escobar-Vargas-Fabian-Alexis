@@ -47,7 +47,7 @@ body {
   }
 
   .menu-title,
-  .pub-title {
+  .pbt {
     text-align: center;
     font-weight: bold;
 
@@ -57,7 +57,7 @@ body {
     margin-bottom: 15px;
   }
 
-  .pub-title {
+  .pbt {
     color: #e65100;
   }
 
@@ -100,7 +100,7 @@ body {
     padding: 20px;
   }
 
-  .avatar-box {
+  .pb {
     width: 100%;
     height: 190px;
     border: 2px dashed #ff9800;
@@ -112,7 +112,7 @@ body {
     background: #fff3e0;
   }
 
-  .avatar-box img {
+  .pb img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -127,4 +127,4 @@ body {
     background: #1565c0;
   }
 
-
+ 
